@@ -4,7 +4,7 @@ Using Angular11<br/>
 By James(Jin) Wang
 
 <article class="markdown-body entry-content container-lg" itemprop="text">
-	<h1><a id="user-content-sb-admin-angular" class="anchor" aria-hidden="true"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></svg></a>Regions and Countries Angular</h1>
+	<h1><a id="user-content-sb-admin-angular" class="anchor" aria-hidden="true"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></svg></a>GEHC Alert Notification Angular</h1>
 	<p>GEHC Alert Notification Angular is a free and open-sourced Bootstrap themed Angular 11 project.</p>
 	<p>GEHC Alert Notification Angular comes with a base implementation of reusable Alert Notification.</p>
 	<h3><a id="user-content-mvcc" class="anchor" aria-hidden="true" href="#mvcc"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></svg></a>Overview of Application</h3>
@@ -20,7 +20,7 @@ By James(Jin) Wang
 	<h2><a id="user-content-quick-start" class="anchor" aria-hidden="true" href="#quick-start"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></svg></a>Quick Start</h2>
 	<div class="highlight highlight-source-shell">
 		<pre>git clone https://github.com/specter01wj/GEHC-AlertNotification.git
-			<span class="pl-c1">cd</span> Regions_Countries_Angular
+			<span class="pl-c1">cd</span> GEHC-AlertNotification
 			npm install
 			npm start
 		</pre>
