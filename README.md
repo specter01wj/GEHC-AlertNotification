@@ -10,7 +10,7 @@ By James(Jin) Wang
 	<h2><a id="user-content-quick-start" class="anchor" aria-hidden="true" href="#quick-start"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></svg></a>Quick Start</h2>
 	<div class="highlight highlight-source-shell">
 		<pre>
-			git clone https://github.com/specter01wj/GEHC-AlertNotification.git
+			<span class="pl-c1">git clone https://github.com/specter01wj/GEHC-AlertNotification.git</span>
 			cd Regions_Countries_Angular
 			npm install
 			npm start
