@@ -7,8 +7,8 @@ By James(Jin) Wang
 	<h1><a id="user-content-sb-admin-angular" class="anchor" aria-hidden="true"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></svg></a>Regions and Countries Angular</h1>
 	<p>GEHC Alert Notification Angular is a free and open-sourced Bootstrap themed Angular 11 project.</p>
 	<p>GEHC Alert Notification Angular comes with a base implementation of reusable Alert Notification.</p>
-	<h3><a id="user-content-mvcc" class="anchor" aria-hidden="true" href="#mvcc"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></svg></a>MVCC</h3>
-	<p>Containers and Components are both Angular Components, but used in different ways.</p>
+	<h3><a id="user-content-mvcc" class="anchor" aria-hidden="true" href="#mvcc"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></svg></a>Overview of Application</h3>
+	<p>Imagine you are part of a team building out a new web application. In this application there will be many screens and workflows that will need to utilize many of the same components, one of them being an Alert Notification. The alert notification may be used for displaying various forms of alerts. The requirements for the alert notification go beyond the capabilities of the standard forms offered with out of the box with HTML. Rather than building a new alert notification component for every instance it’s needed in the app, developers are tasked to build out a reusable version.</p>
 	<p>Containers should arrange Components.</p>
 	<p>Obviously this can become subjective, but MVCC is the paradigm that we subscribe to.</p>
 	<h2><a id="user-content-quick-start" class="anchor" aria-hidden="true" href="#quick-start"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></svg></a>Quick Start</h2>
@@ -48,8 +48,6 @@ By James(Jin) Wang
 	<code>max_old_space_size</code> in the <code>ng</code> command of the <code>package.json</code>:</p>
 	<div class="highlight highlight-source-json"><pre><span class="pl-s"><span class="pl-pds">"</span>ng<span class="pl-pds">"</span></span>: <span class="pl-s"><span class="pl-pds">"</span>cross-env NODE_OPTIONS=--max_old_space_size=2048 ./node_modules/.bin/ng<span class="pl-pds">"</span></span>,</pre></div>
 	<p>You can adjust 2048 to any number you need.</p>
-	<p>For more information about why you may need <code>--max_old_space_size</code>
-	see <a href="https://medium.com/@ashleydavis75/node-js-memory-limitations-30d3fe2664c0" rel="nofollow">this article</a>.</p>
 	<p>Keep in mind that this project only uses node to build the angular application.
 	There is no production dependency on node.</p>
 </article>
