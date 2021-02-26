@@ -9,7 +9,7 @@ By James(Jin) Wang
 	<p>GEHC Alert Notification Angular comes with a base implementation of reusable Alert Notification.</p>
 	<h2><a id="user-content-quick-start" class="anchor" aria-hidden="true" href="#quick-start"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></svg></a>Quick Start</h2>
 	<div class="highlight highlight-source-shell"><pre>git clone https://github.com/specter01wj/GEHC-AlertNotification.git
-	<span class="pl-c1">cd</span> Regions_Countries_Angular
+	<span>cd</span> Regions_Countries_Angular
 	npm install
 	npm start</pre></div>
 	<p><code>npm start</code> should open a browser window to <a href="http://localhost:4200" rel="nofollow">http://localhost:4200</a></p>
