@@ -11,7 +11,7 @@ By James(Jin) Wang
 	<div class="highlight highlight-source-shell">
 		<pre>
 			git clone https://github.com/specter01wj/GEHC-AlertNotification.git
-			<span class="pl-c1">cd Regions_Countries_Angular</span>
+			<span class="pl-c1">cd</span> Regions_Countries_Angular
 			npm install
 			npm start
 		</pre>
